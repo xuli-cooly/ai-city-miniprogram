@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  },
+  "stylelint.validate": ["css", "less", "scss"],
+  "eslint.validate": ["javascript", "ts", "tsx", "html"],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

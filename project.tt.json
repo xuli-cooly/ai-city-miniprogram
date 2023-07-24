@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "taro-template",
+  "appid": "wxc249216a29097b49",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}

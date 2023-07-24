@@ -1,0 +1,86 @@
+{
+    "condition": {
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages/home/index",
+                    "pathName": "pages/detail/index",
+                    "query": "",
+                    "scene": "990001"
+                },
+                {
+                    "name": "xxxx",
+                    "pathName": "pages/confirmPicture/index",
+                    "query": "",
+                    "scene": "990001"
+                },
+                {
+                    "name": "make",
+                    "pathName": "pages/making/index",
+                    "query": "url=https://face-dm.oss-cn-shanghai.aliyuncs.com/faceplus/QQ截图20220429145228.jpg",
+                    "scene": "990001"
+                },
+                {
+                    "name": "pages/makeResult/index",
+                    "pathName": "pages/makeResult/index",
+                    "query": "url=https%253A%252F%252Ffaceeffect-1254418846.cos.ap-guangzhou.myqcloud.com%252Fft%252FChangeAgePic%252F1257064892%252F35c35e8d-970b-407b-92a0-581dc9f6900f&type=younger",
+                    "scene": "990001"
+                },
+                {
+                    "name": "pages/complain/index",
+                    "pathName": "pages/complain/index",
+                    "query": "",
+                    "scene": "990001"
+                },
+                {
+                    "name": "pages/index/index",
+                    "pathName": "pages/index/index",
+                    "query": "tabId=53",
+                    "scene": "990001"
+                },
+                {
+                    "name": "result",
+                    "pathName": "pages/makeResult/index",
+                    "query": "url=https%253A%252F%252Ffaceeffect-1254418846.cos.ap-guangzhou.myqcloud.com%252Fft%252FChangeAgePic%252F1257064892%252Fa55bed49-6b85-4c0a-ac55-ad45709b2d2c&type=younger",
+                    "scene": "011005"
+                },
+                {
+                    "name": "pages/confirmPicture/index",
+                    "pathName": "pages/confirmPicture/index",
+                    "query": "url=https%253A%252F%252Fface-dm.oss-cn-shanghai.aliyuncs.com%252Ffaceplus%252FQQ%25E6%2588%25AA%25E5%259B%25BE20220429144206.png&type=undefined",
+                    "scene": "990001"
+                },
+                {
+                    "name": "pages/detail/index",
+                    "pathName": "pages/detail/index",
+                    "query": "",
+                    "scene": "990001"
+                },
+                {
+                    "name": "video-result",
+                    "pathName": "pages/makeResult/index",
+                    "query": "url=http%253A%252F%252Fvideofacefusion-prod-1254418846.cos.ap-guangzhou.myqcloud.com%252Fface_fusion_prod%252F1.0%252F1257064892%252F20230530141653_304ebf5a-ba11-4ed6-9b23-7e530973736a_qc_317531_198571_73_1684814689_h264_result.mp4",
+                    "scene": "990001"
+                },
+                {
+                    "name": "pages/making/index",
+                    "pathName": "pages/making/index",
+                    "query": "url=https%253A%252F%252Fface-dm.oss-cn-shanghai.aliyuncs.com%252Ffaceplus%252F20230530-155126.jpg&type=undefined",
+                    "scene": "990001"
+                },
+                {
+                    "name": "ad",
+                    "pathName": "pages/confirmPicture/index",
+                    "query": "url=https%253A%252F%252Fface-dm.oss-cn-shanghai.aliyuncs.com%252Ffaceplus%252F20230530-155126.jpg&type=undefined",
+                    "scene": "990001"
+                }
+            ]
+        }
+    },
+    "setting": {
+        "urlCheck": true,
+        "compileHotReLoad": true
+    },
+    "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+    "projectname": "ai-city"
+}

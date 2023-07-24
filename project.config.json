@@ -1,0 +1,65 @@
+{
+    "miniprogramRoot": "dist/",
+    "projectname": "taro-template",
+    "description": "taro模板",
+    "appid": "wxc249216a29097b49",
+    "setting": {
+        "urlCheck": false,
+        "es6": false,
+        "enhance": false,
+        "compileHotReLoad": false,
+        "postcss": false,
+        "minified": false,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        },
+        "condition": false
+    },
+    "compileType": "miniprogram",
+    "condition": {
+        "miniprogram": {
+            "current": 1685096621891,
+            "list": [
+                {
+                    "id": 1684813421063,
+                    "name": "pages/home/index",
+                    "pathName": "pages/detail/index",
+                    "query": "",
+                    "scene": "990001",
+                    "launchFrom": "scan",
+                    "location": "qr_code"
+                },
+                {
+                    "id": 1684832587176,
+                    "name": "xxxx",
+                    "pathName": "pages/confirmPicture/index",
+                    "query": "",
+                    "scene": "990001",
+                    "launchFrom": "scan",
+                    "location": "qr_code"
+                },
+                {
+                    "id": 1685096621891,
+                    "name": "make",
+                    "pathName": "pages/making/index",
+                    "query": "url=https://face-dm.oss-cn-shanghai.aliyuncs.com/faceplus/QQ截图20220429145228.jpg",
+                    "scene": "990001",
+                    "launchFrom": "scan",
+                    "location": "qr_code"
+                }
+            ]
+        }
+    },
+    "libVersion": "3.0.0",
+    "srcMiniprogramRoot": "dist/",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
+}
