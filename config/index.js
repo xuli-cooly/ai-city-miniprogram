@@ -50,7 +50,8 @@ const config = {
           hack: `true; @import "${path.join(__dirname, '..', 'src/styles/utils.less')}";`
         }
       }
-    }
+    },
+    esnextModules: ['@taroify']
   },
   h5: {
     publicPath: '/',

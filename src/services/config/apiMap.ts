@@ -3,7 +3,7 @@
  */
 export const baseUrlMap = {
   /** 测试环境 */
-  test: '',
+  test: 'http://localhost:8888',
   /** 灰度环境 */
   gray: '',
   /** 正式环境 */

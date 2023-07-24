@@ -44,5 +44,9 @@ declare namespace CustomRequest {
      * 是否显示loading
      */
     isShowLoading?: boolean
+    /**
+     *
+     */
+    responseType?: string
   }
 }

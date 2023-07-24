@@ -73,12 +73,19 @@
                     "pathName": "pages/confirmPicture/index",
                     "query": "url=https%253A%252F%252Fface-dm.oss-cn-shanghai.aliyuncs.com%252Ffaceplus%252F20230530-155126.jpg&type=undefined",
                     "scene": "990001"
+                },
+                {
+                    "name": "",
+                    "pathName": "pages/sharp-tools/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
                 }
             ]
         }
     },
     "setting": {
-        "urlCheck": true,
+        "urlCheck": false,
         "compileHotReLoad": true
     },
     "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",

@@ -24,10 +24,10 @@ export const interceptor = chain => {
       if (res.statusCode >= 200 && res.statusCode < 300) {
         // 出路获取oss令牌信息时特殊情况
         if (res.data.code === undefined) {
-          return res.data
+          return res
         }
         if (res.data.code === 200) {
-          return res.data
+          return res
         } else {
           return Promise.reject({ errCode: res.data.code, message: res.data.message })
         }
